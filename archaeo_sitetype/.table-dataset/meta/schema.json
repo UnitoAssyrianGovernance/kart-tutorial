@@ -1,0 +1,1 @@
+[{"id": "7d85b4a7-a575-885c-3b07-9800a9afa4d5", "name": "fid", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "d57057c8-1c1c-fad5-4e45-7293911fb495", "name": "Type", "dataType": "text"}, {"id": "0b814838-1107-2493-b2e1-cab24e7bbe12", "name": "Description", "dataType": "text"}]
